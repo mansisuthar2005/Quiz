@@ -2,6 +2,7 @@
 
 This is a simple command-line *quiz game* developed in Python that tests your knowledge of computer hardware terms like CPU, GPU, RAM, and PSU. It’s a fun beginner-friendly project using basic input/output and logic.
 
+---
 
 ## 🎮 Features
 
@@ -13,7 +14,7 @@ This is a simple command-line *quiz game* developed in Python that tests your kn
   - ❌ Red for incorrect answers
   - 🎨 Cyan messages for info
 
-
+---
 
 ## 🛠 Requirements
 
@@ -24,7 +25,7 @@ To install colorama:
 
 -type in command prompt:- pip install colorama
 
-
+---
 
 
 🚀 How to Run
@@ -41,7 +42,7 @@ To install colorama:
 
 python quiz_game.py
 
-
+---
 
 
 📁 Files in this Repository
@@ -53,7 +54,7 @@ README.md	This file
 LICENSE	MIT License file
 
 
-
+---
 
 
 📸 Preview
@@ -66,7 +67,7 @@ What is the full form of CPU?
 > central processing unit
 ✅ Correct!
 
-
+---
 
 
 📜 License
@@ -74,7 +75,7 @@ What is the full form of CPU?
 This project is licensed under the MIT License.
 
 
-
+---
 
 🙋‍♀ Author
 
