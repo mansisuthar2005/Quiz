@@ -39,4 +39,4 @@ else:
     print(Fore.RED+'Incorrect');
 print(Fore.YELLOW+'You score is:',score,end=" ");
 print(Fore.YELLOW+'out of 5.');
-print(Fore.GREEN+'THANK YOU FOR PLAYING THIS GAME
+print(Fore.GREEN+'THANK YOU FOR PLAYING THIS GAME');
